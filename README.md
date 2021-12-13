@@ -12,5 +12,5 @@
 
 ## Coursera -2021
 ### [Coursera Profile](https://www.coursera.org/user/8cf702640aaaaead08c2351cc26ea235)
-- Creating Business Value with Data and Looker Specialization by Google Cloud (3 Courses)
+- [Creating Business Value with Data and Looker Specialization by Google Cloud (3 Courses)](https://coursera.org/share/b2bb75659b6605f35ed76da8c9652e0a)
 - *Strategic Business Analytics Specialization by ESSEC Business School ( 4 Courses) - in progress*
